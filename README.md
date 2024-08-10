@@ -5,7 +5,7 @@
 - **Building:** Electronics Projects
 - **Contact:** hussein7mohamed8@gmail.com
 - **Ask me about:** Programming languages like C, Bash, Assembly, VHDL, Verilog, Python, or Matlab.
-- **Contributions to Projects:** Digital Electronics, Classic and Digital Control Theories, Operating Systems, Computer Architecture, PCB Design.
+- **Contributions to Projects:** Digital Electronics, Classic and Digital Control, Operating Systems, Computer Architecture, PCB Design.
 - **Let me help with:** Math, Linux Systems, OOP, Data Structures and Algorithms, or Problem Solving.
 
 <h3 align="left">Find me on:</h3>
