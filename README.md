@@ -1,11 +1,11 @@
 <h1 align="center">Hussein Mohamed</h1>
-<h3 align="center">A Human</h3>
+<h3 align="center">Digital IC Design Engineer</h3>
 
 - **Learning:** Hardware Engineering
 - **Building:** Electronics Projects
 - **Contact:** hussein7mohamed8@gmail.com
 - **Ask me about:** Programming languages like C, Bash, Assembly, VHDL, Verilog, Python, or Matlab.
-- **Contributions to Projects:** Digital Electronics, Classic and Digital Control, Operating Systems, Computer Architecture, PCB Design.
+- **Contributions to Projects:** Digital Electronics, Digital Design, Operating Systems, Computer Architecture, PCB Design.
 - **Let me help with:** Math, Linux Systems, OOP, Data Structures and Algorithms, or Problem Solving.
 
 <h3 align="left">Find me on:</h3>
